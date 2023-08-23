@@ -1,3 +1,4 @@
+![20230802_144520](https://github.com/RikkaApps/websites/assets/134621454/df195197-5488-4c12-95f4-c2d93ecf8bec)
 # How to use the Document (Files) app
 
 The Document app is part of the Android system. The advantage is that users can use it to directly access files from a variety of sources (any application that implements DocumentProvider, such as Google Drive).
